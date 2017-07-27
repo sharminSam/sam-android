@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.user.samcalculator.MainActivity" >
+
+    <item 
+	    android:id="@+id/menu_about"
+	    android:orderInCategory="1"
+
+	    android:title="@string/menu_about"/>
+	
+	<item 
+	    android:id="@+id/menu_exit"
+	    android:orderInCategory="2"
+
+	    android:title="@string/menu_exit"/>
+
+</menu>
